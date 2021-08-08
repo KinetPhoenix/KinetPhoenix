@@ -11,8 +11,11 @@
     "engines": {
         "vscode": "^1.59.0"
     },
-    "categories": [
+    "keywords": [
         "Themes",
+        "Blood",
+        "Bloody",
+        "Dark Red",
         "Red",
         "Kinet",
         "Phoenix",
@@ -23,7 +26,7 @@
             {
                 "label": "Red",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Red-color-theme.json"
+                "path": "./themes/Bloody-color-theme.json"
             }
         ]
     }
