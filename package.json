@@ -4,6 +4,7 @@
     "description": "Have a Red theme Theme",
     "version": "0.0.1",
     "publisher": "KinetPhoenix",
+    "icon": "giphy.png",
     "repository": {
         "type" : "git",
         "url" : "https://github.com/KinetPhoenix/KinetPhoenix"
