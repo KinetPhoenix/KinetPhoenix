@@ -6,13 +6,20 @@
     "publisher": "KinetPhoenix",
     "repository": {
         "type" : "git",
-        "url" : ""
+        "url" : "https://github.com/KinetPhoenix/KinetPhoenix"
     },
     "engines": {
         "vscode": "^1.59.0"
     },
     "categories": [
-        "Themes"
+        "Themes",
+        "Blood",
+        "Bloody",
+        "Red",
+        "Kinet",
+        "Phoenix",
+        "KinetPhoenix",
+        "Kinetphoenix"
     ],
     "contributes": {
         "themes": [
