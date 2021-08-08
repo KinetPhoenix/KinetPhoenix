@@ -13,12 +13,10 @@
     },
     "categories": [
         "Themes",
-        "Theme",
         "Red",
         "Kinet",
         "Phoenix",
-        "KinetPhoenix",
-        "Kinetphoenix"
+        "KinetPhoenix"
     ],
     "contributes": {
         "themes": [
