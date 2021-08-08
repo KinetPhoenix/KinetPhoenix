@@ -1,7 +1,7 @@
 {
     "name": "KinetPhoenix",
     "displayName": "Red",
-    "description": "Have a Bloody Theme",
+    "description": "Have a Red theme Theme",
     "version": "0.0.1",
     "publisher": "KinetPhoenix",
     "repository": {
@@ -13,8 +13,8 @@
     },
     "categories": [
         "Themes",
-        "Blood",
-        "Bloody",
+        "Red type",
+        "Dark Red",
         "Red",
         "Kinet",
         "Phoenix",
@@ -24,9 +24,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Bloody",
+                "label": "Red",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Bloody-color-theme.json"
+                "path": "./themes/Red-color-theme.json"
             }
         ]
     }
